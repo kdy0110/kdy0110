@@ -33,7 +33,10 @@
   <img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=Testing-Library&logoColor=white"/>
   <img src="https://img.shields.io/badge/CodeceptJS-ffe680?style=flat-square&logo=CodeceptJS&logoColor=blue"/>
 </p>
-
+<div align="center">
+  <img src="https://github-readme-stats-veggie-garden.vercel.app/api?username=Jiyoon0612&hide=contribs,prs&show_icons=true&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyoon0612&layout=compact&theme=synthwave"/>
+</div><br>
 
 
 <!--
